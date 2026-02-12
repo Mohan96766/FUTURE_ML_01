@@ -47,18 +47,16 @@ Retail managers need to predict sales to:
 ## 🖼 Screenshots / Visualizations
 
 ### Historical + Forecasted Sales
-![Monthly Sales Forecast](main/Monthly_sales_forecast.png.png
+![Monthly Sales Forecast](Monthly_sales_forecast.png.png
 )
 
 
 ### Forecast Components (Trend, Seasonality, Holidays)
-![Forecast Components](main/Forecast_components.png)
+![Forecast Components](Forecast_components.png.png)
 
 ### Recent 12-Month Actual vs Forecast
-![Recent Sales Forecast](main/Recent_sales_forecast.png)
+![Recent Sales Forecast](Recent_sales_forecast.png.png)
 
----
 
-## 📂 Repository Structure
 
 
